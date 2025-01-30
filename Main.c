@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int recursiveEuclid(int a, int b){
 	if (b < 1) return a;
 
